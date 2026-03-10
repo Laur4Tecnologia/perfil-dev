@@ -1,0 +1,7 @@
+Nome: Laura
+Curso: Engenharia 
+Linguagens favoritas: Java, JavaScript, Python ou outras 
+Objetivo profissional: Ser um grande desenvolvedor
+
+hobbies
+Hobbies: Programar, jogar videogame, estudar tecnologia
